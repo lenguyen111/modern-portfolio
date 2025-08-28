@@ -154,7 +154,7 @@ sequenceDiagram
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/xirothedev/modern-portfolio.git
+git clone https://github.com/lenguyen111/modern-portfolio.git
 cd modern-portfolio
 pnpm install
 # or npm install / yarn install
@@ -245,7 +245,7 @@ docker compose up --build
 
 ## 📄 CV & Contact
 
-- Download CV: [public/lethanhtrung-webdeveloper-cv.pdf](public/lethanhtrung-webdeveloper-cv.pdf)
+- Download CV: [...]()
 - Contact: Footer includes GitHub, LinkedIn, Email, Discord, Facebook links
 
 ## 📝 License
