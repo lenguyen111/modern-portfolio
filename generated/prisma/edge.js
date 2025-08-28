@@ -152,7 +152,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "D:\\modern-portfolio\\generated\\prisma",
+      "value": "C:\\Users\\neyugN\\Documents\\GitHub\\modern-portfolio\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -174,7 +174,7 @@ const config = {
       "postgresqlExtensions",
       "relationJoins"
     ],
-    "sourceFilePath": "D:\\modern-portfolio\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Users\\neyugN\\Documents\\GitHub\\modern-portfolio\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
