@@ -4,7 +4,7 @@
 			"main": true
 		}
 	},
-	"buildCommand": "pnpm build:vercel",
+	"buildCommand": "pnpm dev",
 	"installCommand": "pnpm install",
 	"framework": "nextjs"
 }
