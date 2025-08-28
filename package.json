@@ -4,18 +4,18 @@
 	"private": true,
 	"packageManager": "pnpm@10.13.1",
 	"description": "A modern, interactive developer portfolio built with Next.js, React, TypeScript, and Tailwind CSS. Showcases projects, skills, and experience with 3D, animation, and real-time GitHub integration.",
-	"author": "HoangNguyen <lenguyen1112011"@gmail.com>",
+	"author": "HoangNguyen <lenguyen1112011@gmail.com>",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/xirothedev/modern-portfolio.git"
+		"url": "https://github.com/lenguyen111/modern-portfolio.git"
 	},
-	"homepage": "https://github.com/xirothedev/modern-portfolio#readme",
+	"homepage": "https://github.com/lenguyen111/modern-portfolio#readme",
 	"bugs": {
-		"url": "https://github.com/xirothedev/modern-portfolio/issues"
+		"url": "https://github.com/lenguyen111/modern-portfolio/issues"
 	},
 	"funding": {
 		"type": "github",
-		"url": "https://github.com/sponsors/xirothedev"
+		"url": "https://github.com/lenguyen111/xirothedev"
 	},
 	"scripts": {
 		"build": "next build",
