@@ -156,8 +156,8 @@ const config = {
       "fromEnvVar": null
     },
     "config": {
-      "engineType": "library",
-      "relationMode": "prisma"
+      "relationMode": "prisma",
+      "engineType": "library"
     },
     "binaryTargets": [
       {
